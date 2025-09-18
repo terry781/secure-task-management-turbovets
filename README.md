@@ -32,8 +32,8 @@ libs/
 
 1. **Quick Start (Recommended)**
 ```bash
-git clone <repository-url>
-cd secure-task-management
+git clone https://github.com/terry781/secure-task-management-turbovets
+cd secure-task-management-turbovets
 ./scripts/setup.sh
 ./scripts/dev-start.sh
 ```
